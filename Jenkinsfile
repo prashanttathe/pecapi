@@ -1,6 +1,6 @@
 pipeline {	
 	environment {	
-    		def APP_NAME = "petclinicapi"	
+    		def APP_NAME = "petcapi"	
     		def GIT_REPO_NAME = "prashanttathe"	
     		def DEPLOY_ENV = "dev"	
 	}	
